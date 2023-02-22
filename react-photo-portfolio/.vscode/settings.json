@@ -1,0 +1,22 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.experimental.classRegex": [
+
+
+    ],
+    "git.ignoreLimitWarning": true,
+    "tailwindCSS.includeLanguages": {
+
+        "plaintext": "html",
+        "javascript": "javascriptreact",
+        "css": "css"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "plaintext": "html",
+        "javascript": "javascriptreact",
+        "css": "css"
+
+    }
+}
